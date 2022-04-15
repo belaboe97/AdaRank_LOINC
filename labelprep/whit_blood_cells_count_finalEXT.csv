@@ -1,0 +1,202 @@
+loinc_num,long_common_name,component,system,property,1,0
+33870-7,Bilirubin.total [Presence] in Unspecified specimen,Bilirubin,XXX,PrThr,1,0
+29265-6,Calcium [Moles/volume] corrected for albumin in Serum or Plasma,Calcium^^corrected for albumin,Ser/Plas,SCnc,1,0
+14423-8,Bilirubin.total [Mass/volume] in Synovial fluid,Bilirubin,Synv fld,MCnc,1,0
+23658-8,Other Antibiotic [Susceptibility],Antibiotic XXX,Isolate,Susc,1,0
+19000-9,Vancomycin [Susceptibility],Vancomycin,Isolate,Susc,1,0
+14749-6,Glucose [Moles/volume] in Serum or Plasma,Glucose,Ser/Plas,SCnc,1,0
+1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Aspartate aminotransferase,Ser/Plas,CCnc,1,0
+18878-9,Cefazolin [Susceptibility],Cefazolin,Isolate,Susc,1,0
+20442-0,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe with signal amplification,Hepatitis B virus DNA,Ser,NCnc,1,0
+1751-7,Albumin [Mass/volume] in Serum or Plasma,Albumin,Ser/Plas,MCnc,1,0
+13317-3,Methicillin resistant Staphylococcus aureus [Presence] in Unspecified specimen by Organism specific culture,Staphylococcus aureus.methicillin resistant isolate,XXX,ACnc,1,0
+15076-3,Glucose [Moles/volume] in Urine,Glucose,Urine,SCnc,1,0
+35184-1,Fasting glucose [Mass or Moles/volume] in Serum or Plasma,Glucose^post CFst,Ser/Plas,MSCnc,1,0
+2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,Cholesterol.in HDL,Ser/Plas,MCnc,1,0
+26464-8,Leukocytes [#/volume] in Blood,Leukocytes,Bld,NCnc,1,0
+925-8,Blood product disposition [Type],Blood product disposition,^BPU,Type,1,0
+1994-3,Calcium.ionized [Moles/volume] in Blood,Calcium.ionized,Bld,SCnc,1,0
+1798-8,Amylase [Enzymatic activity/volume] in Serum or Plasma,Amylase,Ser/Plas,CCnc,1,0
+1959-6,Bicarbonate [Moles/volume] in Blood,Bicarbonate,Bld,SCnc,1,0
+1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,Bilirubin,Ser/Plas,MCnc,1,0
+18928-2,Gentamicin [Susceptibility],Gentamicin,Isolate,Susc,1,0
+14578-9,ABO group [Type] in Blood from Blood product unit,ABO group,Bld^BPU,Type,1,0
+934-0,Blood product unit ID [#],Blood product unit ID,Dose,Num,1,0
+4671-4,Protein C [Mass/volume] in Plasma,Protein C,Plas,MCnc,1,0
+2069-3,Chloride [Moles/volume] in Blood,Chloride,Bld,SCnc,1,0
+2111-3,Choriogonadotropin.beta subunit [Moles/volume] in Serum or Plasma,Choriogonadotropin.beta subunit,Ser/Plas,SCnc,1,0
+17861-6,Calcium [Mass/volume] in Serum or Plasma,Calcium,Ser/Plas,MCnc,1,0
+2075-0,Chloride [Moles/volume] in Serum or Plasma,Chloride,Ser/Plas,SCnc,1,0
+933-2,Blood product type,Blood product type,^BPU,Type,1,0
+2132-9,Cobalamin (Vitamin B12) [Mass/volume] in Serum,Cobalamins,Ser,MCnc,1,0
+19080-1,Choriogonadotropin [Units/volume] in Serum or Plasma,Choriogonadotropin,Ser/Plas,ACnc,1,0
+26478-8,Lymphocytes/100 leukocytes in Blood,Lymphocytes/100 leukocytes,Bld,NFr,1,0
+14747-0,Glucose [Moles/volume] in Pleural fluid,Glucose,Plr fld,SCnc,1,0
+20565-8,"Carbon dioxide, total [Moles/volume] in Blood",Carbon dioxide,Bld,SCnc,1,0
+2028-9,"Carbon dioxide, total [Moles/volume] in Serum or Plasma",Carbon dioxide,Ser/Plas,SCnc,1,0
+18955-5,Nitrofurantoin [Susceptibility],Nitrofurantoin,Isolate,Susc,1,0
+2093-3,Cholesterol [Mass/volume] in Serum or Plasma,Cholesterol,Ser/Plas,MCnc,1,0
+18998-5,Trimethoprim+Sulfamethoxazole [Susceptibility],Trimethoprim+Sulfamethoxazole,Isolate,Susc,1,0
+890-4,Blood group antibody screen [Presence] in Serum or Plasma,Blood group antibody screen,Ser/Plas,ACnc,1,0
+14764-5,Glucose [Moles/volume] in Serum or Plasma --3 hours post 100 g glucose PO,Glucose^3H post 100 g glucose PO,Ser/Plas,SCnc,1,0
+2143-6,Cortisol [Mass/volume] in Serum or Plasma,Cortisol,Ser/Plas,MCnc,1,0
+2039-6,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma,Carcinoembryonic Ag,Ser/Plas,MCnc,1,0
+1971-1,Bilirubin.indirect [Mass/volume] in Serum or Plasma,Bilirubin.non-glucuronidated,Ser/Plas,MCnc,1,0
+18906-8,Ciprofloxacin [Susceptibility],Ciprofloxacin,Isolate,Susc,1,0
+6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,Alkaline phosphatase,Ser/Plas,CCnc,1,0
+1988-5,C reactive protein [Mass/volume] in Serum or Plasma,C reactive protein,Ser/Plas,MCnc,1,0
+74774-1,"Glucose [Mass/volume] in Serum, Plasma or Blood",Glucose,Ser/Plas/Bld,MCnc,1,1
+1995-0,Calcium.ionized [Moles/volume] in Serum or Plasma,Calcium.ionized,Ser/Plas,SCnc,1,0
+1759-0,Albumin/Globulin [Mass ratio] in Serum or Plasma,Albumin/Globulin,Ser/Plas,MCrto,1,0
+20629-2,Levofloxacin [Susceptibility],Levofloxacin,Isolate,Susc,1,0
+1968-7,Bilirubin.direct [Mass/volume] in Serum or Plasma,Bilirubin.glucuronidated+Bilirubin.albumin bound,Ser/Plas,MCnc,1,0
+35192-4,Bilirubin.indirect [Mass or Moles/volume] in Serum or Plasma,Bilirubin.non-glucuronidated,Ser/Plas,MSCnc,1,0
+883-9,ABO group [Type] in Blood,ABO group,Bld,Type,1,0
+1003-3,Indirect antiglobulin test.complement specific reagent [Presence] in Serum or Plasma,Indirect antiglobulin test.complement specific reagent,Ser/Plas,ACnc,1,0
+54439-5,Calcium bilirubinate/Total in Stone,Calcium bilirubinate/Total,Calculus,MFr,1,0
+3082-5,Tyrosine aminotransferase [Mass/volume] in Plasma,Tyrosine aminotransferase,Plas,MCnc,1,0
+30522-7,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method,C reactive protein,Ser/Plas,MCnc,1,0
+10331-7,Rh [Type] in Blood,Rh,Bld,Type,1,0
+26474-7,Lymphocytes [#/volume] in Blood,Lymphocytes,Bld,NCnc,1,0
+8310-5,Body temperature,Body temperature,^Patient,Temp,1,0
+31100-1,Hematocrit [Volume Fraction] of Blood by Impedance,Hematocrit,Bld,VFr,1,0
+882-1,ABO & Rh group [Type] in Blood,ABO+Rh group,Bld,Type,1,0
+26484-6,Monocytes [#/volume] in Blood,Monocytes,Bld,NCnc,1,0
+1250-0,Major crossmatch [interpretation],Major crossmatch,Ser/Plas,Imp,1,0
+18864-9,Ampicillin [Susceptibility],Ampicillin,Isolate,Susc,1,0
+1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Alanine aminotransferase,Ser/Plas,CCnc,1,0
+18865-6,Ampicillin+Sulbactam [Susceptibility],Ampicillin+Sulbactam,Isolate,Susc,1,0
+41652-9,"""Glucose [Mass/volume] in Venous blood""",Glucose,MCnc,MCnc,1,1
+39480-9,"""Glucose [Moles/volume] in Venous blood""",Glucose,SCnc,SCnc,1,1
+2339-0,"""Glucose [Mass/volume] in Blood""",Glucose,MCnc,MCnc,1,1
+15074-8,"""Glucose [Moles/volume] in Blood""",Glucose,SCnc,SCnc,1,1
+52041-1,"""Blood glucose monitor attachment""","""Blood glucose monitors attachment""",Find,Find,1,1
+41651-1,"""Glucose [Mass/volume] in Arterial blood""",Glucose,MCnc,MCnc,1,1
+39481-7,"""Glucose [Moles/volume] in Arterial blood""",Glucose,SCnc,SCnc,1,1
+51596-5,"""Glucose [Moles/volume] in Capillary blood""",Glucose,SCnc,SCnc,1,1
+87421-4,"""Deprecated Glucose [Mass/volume] in Blood --pre-meal""",Glucose^pre-meal,MCnc,MCnc,1,1
+49134-0,"""Glucose [Mass/volume] in Blood --2 hours post dose glucose""","""Glucose^2H post dose glucose""",MCnc,MCnc,1,1
+1557-8,"""Fasting glucose [Mass/volume] in Venous blood""","""Glucose^post CFst""",MCnc,MCnc,1,1
+32016-8,"""Glucose [Mass/volume] in Capillary blood""",Glucose,MCnc,MCnc,1,1
+47995-6,"""Glucose [Moles/volume] in Cord blood""",Glucose,SCnc,SCnc,1,1
+88365-2,"""Glucose [Mass/volume] in Blood --pre-meal""",Glucose^pre-meal,MCnc,MCnc,1,1
+40858-3,"""Glucose [Mass/volume] in Capillary blood --baseline""",Glucose^baseline,MCnc,MCnc,1,1
+96594-7,"""Glucose [Mass/volume] in DBS""",Glucose,MCnc,MCnc,1,1
+5914-7,"""Glucose [Presence] in Blood by Test strip""",Glucose,PrThr,PrThr,1,1
+41653-7,"""Glucose [Mass/volume] in Capillary blood by Glucometer""",Glucose,MCnc,MCnc,1,1
+14743-9,"""Glucose [Moles/volume] in Capillary blood by Glucometer""",Glucose,SCnc,SCnc,1,1
+97062-4,"""History of High blood glucose""","""High blood glucose""",Hx,Hx,1,1
+1556-0,"""Fasting glucose [Mass/volume] in Capillary blood""","""Glucose^post CFst""",MCnc,MCnc,1,1
+87422-2,"""Glucose [Mass/volume] in Blood --post meal""","""Glucose^post meal""",MCnc,MCnc,1,1
+hit,"""Glucose [Mass/volume] in Serum",Glucose,MCnc,MCnc,1,1
+77135-2,"""Glucose [Moles/volume] in Serum",Glucose,SCnc,SCnc,1,1
+27353-2,"""Glucose mean value [Mass/volume] in Blood Estimated from glycated hemoglobin""","""Estimated average glucose""",MCnc,MCnc,1,1
+53553-4,"""Glucose mean value [Moles/volume] in Blood Estimated from glycated hemoglobin""","""Estimated average glucose""",SCnc,SCnc,1,1
+2341-6,"""Glucose [Mass/volume] in Blood by Test strip manual""",Glucose,MCnc,MCnc,1,1
+2340-8,"""Glucose [Mass/volume] in Blood by Automated test strip""",Glucose,MCnc,MCnc,1,1
+72516-8,"""Glucose [Moles/volume] in Blood by Automated test strip""",Glucose,SCnc,SCnc,1,1
+59813-6,"""Glucose [Moles/volume] in Capillary blood by Glucometer --7 AM specimen""","""Glucose^7 AM specimen""",SCnc,SCnc,1,1
+41604-0,"""Fasting glucose [Mass/volume] in Capillary blood by Glucometer""","""Glucose^post CFst""",MCnc,MCnc,1,1
+14770-2,"""Fasting glucose [Moles/volume] in Capillary blood by Glucometer""","""Glucose^post CFst""",SCnc,SCnc,1,1
+81637-1,"""Glucose meter to reference method correlation [Ratio] in Serum","""Glucose meter to reference method correlation""",Ratio,Ratio,1,1
+76629-5,"""Fasting glucose [Moles/volume] in Blood""","""Glucose^post CFst""",SCnc,SCnc,1,1
+14760-3,"""Glucose [Moles/volume] in Capillary blood --2 hours post meal""","""Glucose^2H post meal""",SCnc,SCnc,1,1
+6689-4,"""Glucose [Mass/volume] in Blood --2 hours post meal""","""Glucose^2H post meal""",MCnc,MCnc,1,1
+11047-8,"""Glucose phosphate isomerase [Enzymatic activity/volume] in Red Blood Cells""","""Glucose phosphate isomerase""",CCnc,CCnc,1,1
+44050-3,"""Glucose phosphate isomerase [Enzymatic activity/mass] in Red Blood Cells""","""Glucose phosphate isomerase""",CCnt,CCnt,1,1
+77145-1,"""Fasting glucose [Moles/volume] in Serum","""Glucose^post CFst""",SCnc,SCnc,1,1
+77677-3,"""Glucose [Moles/volume] in Serum","""Glucose^2H post meal""",SCnc,SCnc,1,1
+13453-6,"""Deprecated Glucose mean value""","""Glucose mean value""",ACnc,ACnc,1,1
+62851-1,"""PhenX - fasting plasma glucose for diabetes screening - blood draw protocol 140801""","""PhenX - fasting plasma glucose for diabetes screening - blood draw protocol 140801""",-,-,1,1
+96045-0,"""Osmotic fragility of Red Blood Cells--10% glucose 48 hour 37 degree C incubation""","""Osmotic fragility^10% glucose 48H 37 deg C incubation""",NFr,NFr,1,1
+62850-3,"""Deprecated PhenX measure - fasting plasma glucose for diabetes screening - blood draw""","""PhenX measure - fasting plasma glucose for diabetes screening - blood draw""",-,-,1,1
+79469-3,"""Uridine diphosphate glucose-4-Epimerase [Enzymatic activity/mass] in Red Blood Cells""","""Uridine diphosphate glucose-4-Epimerase""",CCnt,CCnt,1,1
+74542-2,"""Pyruvate kinase/Glucose-6-Phosphate dehydrogenase [Enzymatic activity ratio] in Red Blood Cells""","""Pyruvate kinase/Glucose-6-Phosphate dehydrogenase""",CRto,CRto,1,1
+71593-8,"""Glucose-6-Phosphate dehydrogenase [Enzymatic activity/substance] in Red Blood Cells""","""Glucose-6-Phosphate dehydrogenase""",CSub,CSub,1,1
+2356-4,"""Glucose-6-Phosphate dehydrogenase [Presence] in Red Blood Cells""","""Glucose-6-Phosphate dehydrogenase""",PrThr,PrThr,1,1
+32779-1,"""Glucose-6-Phosphatase [Enzymatic activity/volume] in Red Blood Cells""",Glucose-6-Phosphatase,CCnc,CCnc,1,1
+74469-8,"""Glucose-6-Phosphate dehydrogenase/Pyruvate kinase [Ratio] in Blood""","""Glucose-6-Phosphate dehydrogenase/Pyruvate kinase""",Ratio,Ratio,1,1
+49502-8,"""Glucose-6-Phosphate dehydrogenase [Entitic Catalytic Activity] in Blood""","""Glucose-6-Phosphate dehydrogenase""",EntCat,EntCat,1,1
+33287-4,"""Glucose-6-Phosphate dehydrogenase [Presence] in DBS""","""Glucose-6-Phosphate dehydrogenase""",PrThr,PrThr,1,1
+49266-0,"""Glucose-6-Phosphate dehydrogenase phenotype [Interpretation] in Red Blood Cells Narrative""","""Glucose-6-Phosphate dehydrogenase phenotype""",Imp,Imp,1,1
+42319-4,"""Glucose-6-Phosphate dehydrogenase phenotype [Interpretation] in Red Blood Cells""","""Glucose-6-Phosphate dehydrogenase phenotype""",Imp,Imp,1,1
+2357-2,"""Glucose-6-Phosphate dehydrogenase [Enzymatic activity/volume] in Red Blood Cells""","""Glucose-6-Phosphate dehydrogenase""",CCnc,CCnc,1,1
+32546-4,"""Glucose-6-Phosphate dehydrogenase [Enzymatic activity/mass] in Red Blood Cells""","""Glucose-6-Phosphate dehydrogenase""",CCnt,CCnt,1,1
+58089-4,"""Glucose-6-Phosphate dehydrogenase newborn screen interpretation""","""Glucose-6-Phosphate dehydrogenase""",Imp,Imp,1,1
+49925-1,"""Glucose-6-Phosphate dehydrogenase [Enzymatic activity/mass] in Red Blood Cells by Glock and McLean""","""Glucose-6-Phosphate dehydrogenase""",CCnt,CCnt,1,1
+49926-9,"""Glucose-6-Phosphate dehydrogenase [Enzymatic activity/mass] in Red Blood Cells by WHO method""","""Glucose-6-Phosphate dehydrogenase""",CCnt,CCnt,1,1
+58091-0,"""Glucose-6-Phosphate dehydrogenase newborn screen panel""","""Glucose-6-Phosphate dehydrogenase newborn screen panel""",-,-,1,1
+58090-2,"""Glucose-6-Phosphate dehydrogenase newborn screening comment-discussion""","""Glucose-6-Phosphate dehydrogenase newborn screening comment-discussion""",Txt,Txt,1,1
+2360-6,"""Glucose-6-Phosphate dehydrogenase [Enzymatic activity/volume] in Leukocytes""","""Glucose-6-Phosphate dehydrogenase""",CCnc,CCnc,1,1
+21680-4,"""G6PD gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal""","""G6PD gene targeted mutation analysis""",Prid,Prid,1,1
+21681-2,"""G6PD gene mutations tested for in Blood or Tissue by Molecular genetics method Nominal""","""G6PD gene mutations tested for""",Prid,Prid,1,1
+94231-8,"""G6PD gene full mutation analysis in Blood or Tissue by Sequencing""","""G6PD gene full mutation analysis""",Find,Find,1,1
+49862-6,"""G6PC gene targeted mutation analysis in Blood or Tissue by Molecular genetics method""","""G6PC gene targeted mutation analysis""",Find,Find,1,1
+8411-1,"""Mesenteric artery Mean blood pressure""","""Intravascular mean""",Pres,Pres,1,0
+8419-4,"""Splenic artery Mean blood pressure""","""Intravascular mean""",Pres,Pres,1,0
+60951-1,"""Pressure max Respiratory system airway --during inspiration""","""Pressure max^during inspiration""",Pres,Pres,1,0
+60952-9,"""Mean airway pressure --during inspiration""","""Pressure mean^during inspiration""",Pres,Pres,1,0
+86270-6,"""Current number of unhealed pressure injuries at each stage - follow-up or discharge [CMS Assessment]""","""Current number of unhealed pressure injuries at each stage - follow-up or discharge""",-,-,1,0
+52728-3,"""Diameter.any.max Pressure injury.largest stage 3 or 4 [CMS Assessment]""",Diameter.any.max,Len,Len,1,0
+8467-3,"""Diastolic blood pressure 24 hour maximum""","""Intravascular diastolic""",Pres,Pres,1,0
+8464-0,"""Diastolic blood pressure 8 hour maximum""","""Intravascular diastolic""",Pres,Pres,1,0
+8369-1,"""Descending thoracic aorta Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+8384-0,"""Superior mesenteric artery Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+8393-1,"""Pulmonary artery End diastolic blood pressure""","""Intravascular end diastolic""",Pres,Pres,1,0
+8587-8,"""Pulmonary artery wedge Mean blood pressure""","""Intravascular mean""",Pres,Pres,1,0
+8548-0,"""Digital artery - left Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8549-8,"""Digital artery - right Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8509-2,"""Dorsal pedal artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8436-8,"""Hepatic artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8557-1,"""Iliac artery - left Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8558-9,"""Iliac artery - right Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8511-8,"""Posterior tibial artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8567-0,"""Radial artery - left Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8568-8,"""Radial artery - right Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8443-4,"""Renal artery - left Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8444-2,"""Renal artery - right Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8569-6,"""Retinal artery - left Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8570-4,"""Retinal artery - right Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8439-2,"""Superior mesenteric artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8573-8,"""Thumb arteries - left Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8574-6,"""Thumb arteries - right Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8575-3,"""Ulnar artery - left Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8576-1,"""Ulnar artery - right Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8465-7,"""Diastolic blood pressure 10 hour maximum""","""Intravascular diastolic""",Pres,Pres,1,0
+8475-6,"""Diastolic blood pressure 10 hour minimum""","""Intravascular diastolic""",Pres,Pres,1,0
+8466-5,"""Diastolic blood pressure 12 hour maximum""","""Intravascular diastolic""",Pres,Pres,1,0
+8476-4,"""Diastolic blood pressure 12 hour minimum""","""Intravascular diastolic""",Pres,Pres,1,0
+8368-3,"""Ascending thoracic aorta Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+75995-1,"""Diastolic blood pressure by Continuous non-invasive monitoring""","""Intravascular diastolic""",Pres,Pres,1,0
+8496-2,"""Brachial artery Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+8378-2,"""Celiac trunk artery Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+8498-8,"""Femoral artery Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+8383-2,"""Inferior mesenteric artery Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+76286-4,"""Pulmonary capillary Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+61003-0,"""Umbilical vein Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+8485-5,"""Systolic blood pressure 24 hour maximum""","""Intravascular systolic""",Pres,Pres,1,0
+8495-4,"""Systolic blood pressure 24 hour minimum""","""Intravascular systolic""",Pres,Pres,1,0
+8482-2,"""Systolic blood pressure 8 hour maximum""","""Intravascular systolic""",Pres,Pres,1,0
+8492-1,"""Systolic blood pressure 8 hour minimum""","""Intravascular systolic""",Pres,Pres,1,0
+8423-6,"""Ascending thoracic aorta Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8438-4,"""Inferior mesenteric artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8441-8,"""Left pulmonary artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8442-6,"""Right pulmonary artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+73782-5,"""Neonatal pressure ulcer risk evaluation [NSRAS]""","""Neonatal pressure ulcer risk evaluation""",Imp,Imp,1,0
+54946-9,"""Number of pressure injuries - unstageable due to coverage of wound bed by slough/eschar [CMS Assessment]""","""Number of pressure injuries - unstageable due to coverage of wound bed by slough &or eschar""",Num,Num,1,0
+54893-3,"""Number of pressure injuries - unstageable due to non-removable dressing or device [CMS Assessment]""","""Number of pressure injuries - unstageable due to non-removable dressing or device""",Num,Num,1,0
+54950-1,"""Number of pressure injuries - unstageable with suspected deep tissue injury in evolution [CMS Assessment]""","""Number of pressure injuries - unstageable with suspected deep tissue injury in evolution""",Num,Num,1,0
+52476-9,"""Number of unhealed pressure ulcers at each stage - at assessment and onset during this service""","""Number of unhealed pressure ulcers at each stage - at assessment and onset during this service""",-,-,1,0
+52574-1,"""One or more unhealed pressure ulcer(s) at stage 2 or higher [CARE]""","""One or more unhealed pressure ulcer(s) at stage 2 or higher""",Find,Find,1,0
+20065-9,"""Airway pressure by Airway pressure monitor --on ventilator.volume targeted control""","""Pressure.airway^on ventilator.volume targeted control""",Pres,Pres,1,0
+76257-5,"""Air cylinder Pressure""",Pressure,Pres,Pres,1,0
+76258-3,"""Air pipeline Pressure""",Pressure,Pres,Pres,1,0
+76298-9,"""Gastric pressure""",Pressure,Pres,Pres,1,0
+54878-4,,"""Pressure injury risk by resident has a stage 1 or greater",ascar over bony prominence,ascar over bony prominence,1,0
+76253-4,"""Nitrous oxide cylinder Pressure""",Pressure,Pres,Pres,1,0
+76255-9,"""Oxygen cylinder Pressure""",Pressure,Pres,Pres,1,0
+76254-2,"""Nitrous oxide pipeline Pressure""",Pressure,Pres,Pres,1,0
+76256-7,"""Oxygen pipeline Pressure""",Pressure,Pres,Pres,1,0
+62393-4,"""PhenX - preg high blood pressure protocol 040401""","""PhenX - preg high blood pressure protocol 040401""",-,-,1,0
+60949-5,"""Mean airway pressure""",Pressure.mean,Pres,Pres,1,0
+8400-4,"""Right atrial Intrachamber mean pressure""","""Intrachamber mean""",Pres,Pres,1,0

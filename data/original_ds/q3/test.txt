@@ -1,0 +1,15 @@
+0 qid:3 1:0.5515003627847161 4:0.5515003627847161 #docid = 8310-5 Body temperature
+0 qid:3 1:0.6742305096469553 4:0.4139342331935168 #docid = 1751-7 Albumin [Mass/volume] in Serum or Plasma
+0 qid:3 1:0.6434580710978177 4:0.07163278066504783 #docid = 2039-6 Carcinoembryonic Ag [Mass/volume] in Serum or Plasma
+0 qid:3 1:0.664572911355586 4:0.40831464372351 #docid = 1759-0 Albumin/Globulin [Mass ratio] in Serum or Plasma
+0 qid:3 1:0.4889615905343453 4:0.368048740035132 #docid = 33870-7 Bilirubin.total [Presence] in Unspecified specimen
+0 qid:3 1:0.3359340623860566 4:0.1604752797709975 #docid = 19000-9 Vancomycin [Susceptibility]
+0 qid:3 1:0.719392296053066 #docid = 35184-1 Fasting glucose [Mass or Moles/volume] in Serum or Plasma
+0 qid:3 1:0.558329798864489 4:0.5370846558399833 #docid = 54439-5 Calcium bilirubinate/Total in Stone
+0 qid:3 1:0.703546516195505 4:0.5909273292841899 #docid = 1988-5 C reactive protein [Mass/volume] in Serum or Plasma
+1 qid:3 1:0.7192441278300078 2:0.05555555555555555 3:0.05555555555555555 4:0.7192441278300078 #docid = 933-2 Blood product type
+0 qid:3 1:0.6907091268769323 4:0.5809659206989772 #docid = 14749-6 Glucose [Moles/volume] in Serum or Plasma
+0 qid:3 1:0.6478851621647624 4:0.2236983814468755 #docid = 2111-3 Choriogonadotropin.beta subunit [Moles/volume] in Serum or Plasma
+1 qid:3 1:0.5160510165899365 2:0.03448275862068965 #docid = 26484-6 Monocytes [#/volume] in Blood
+0 qid:3 1:0.6322604535284999 #docid = 19080-1 Choriogonadotropin [Units/volume] in Serum or Plasma
+1 qid:3 1:0.5847301357706712 2:0.03333333333333333 4:0.2941652783273687 #docid = 882-1 ABO & Rh group [Type] in Blood

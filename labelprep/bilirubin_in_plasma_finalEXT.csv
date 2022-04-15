@@ -1,0 +1,202 @@
+loinc_num,long_common_name,component,system,property,1,0
+934-0,Blood product unit ID [#],Blood product unit ID,Dose,Num,1,0
+1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Alanine aminotransferase,Ser/Plas,CCnc,1,0
+20565-8,"Carbon dioxide, total [Moles/volume] in Blood",Carbon dioxide,Bld,SCnc,1,0
+1959-6,Bicarbonate [Moles/volume] in Blood,Bicarbonate,Bld,SCnc,1,0
+18906-8,Ciprofloxacin [Susceptibility],Ciprofloxacin,Isolate,Susc,1,0
+18865-6,Ampicillin+Sulbactam [Susceptibility],Ampicillin+Sulbactam,Isolate,Susc,1,0
+13317-3,Methicillin resistant Staphylococcus aureus [Presence] in Unspecified specimen by Organism specific culture,Staphylococcus aureus.methicillin resistant isolate,XXX,ACnc,1,0
+882-1,ABO & Rh group [Type] in Blood,ABO+Rh group,Bld,Type,1,0
+26464-8,Leukocytes [#/volume] in Blood,Leukocytes,Bld,NCnc,1,0
+1968-7,Bilirubin.direct [Mass/volume] in Serum or Plasma,Bilirubin.glucuronidated+Bilirubin.albumin bound,Ser/Plas,MCnc,1,1
+8310-5,Body temperature,Body temperature,^Patient,Temp,1,0
+30522-7,C reactive protein [Mass/volume] in Serum or Plasma by High sensitivity method,C reactive protein,Ser/Plas,MCnc,1,0
+18878-9,Cefazolin [Susceptibility],Cefazolin,Isolate,Susc,1,0
+1994-3,Calcium.ionized [Moles/volume] in Blood,Calcium.ionized,Bld,SCnc,1,0
+1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,Bilirubin,Ser/Plas,MCnc,1,1
+2093-3,Cholesterol [Mass/volume] in Serum or Plasma,Cholesterol,Ser/Plas,MCnc,1,0
+10331-7,Rh [Type] in Blood,Rh,Bld,Type,1,0
+1250-0,Major crossmatch [interpretation],Major crossmatch,Ser/Plas,Imp,1,0
+18955-5,Nitrofurantoin [Susceptibility],Nitrofurantoin,Isolate,Susc,1,0
+19000-9,Vancomycin [Susceptibility],Vancomycin,Isolate,Susc,1,0
+18864-9,Ampicillin [Susceptibility],Ampicillin,Isolate,Susc,1,0
+890-4,Blood group antibody screen [Presence] in Serum or Plasma,Blood group antibody screen,Ser/Plas,ACnc,1,0
+14578-9,ABO group [Type] in Blood from Blood product unit,ABO group,Bld^BPU,Type,1,0
+17861-6,Calcium [Mass/volume] in Serum or Plasma,Calcium,Ser/Plas,MCnc,1,0
+1759-0,Albumin/Globulin [Mass ratio] in Serum or Plasma,Albumin/Globulin,Ser/Plas,MCrto,1,0
+2028-9,"Carbon dioxide, total [Moles/volume] in Serum or Plasma",Carbon dioxide,Ser/Plas,SCnc,1,0
+883-9,ABO group [Type] in Blood,ABO group,Bld,Type,1,0
+23658-8,Other Antibiotic [Susceptibility],Antibiotic XXX,Isolate,Susc,1,0
+1971-1,Bilirubin.indirect [Mass/volume] in Serum or Plasma,Bilirubin.non-glucuronidated,Ser/Plas,MCnc,1,1
+20442-0,Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe with signal amplification,Hepatitis B virus DNA,Ser,NCnc,1,0
+74774-1,"Glucose [Mass/volume] in Serum, Plasma or Blood",Glucose,Ser/Plas/Bld,MCnc,1,0
+14747-0,Glucose [Moles/volume] in Pleural fluid,Glucose,Plr fld,SCnc,1,0
+35192-4,Bilirubin.indirect [Mass or Moles/volume] in Serum or Plasma,Bilirubin.non-glucuronidated,Ser/Plas,MSCnc,1,1
+2143-6,Cortisol [Mass/volume] in Serum or Plasma,Cortisol,Ser/Plas,MCnc,1,0
+2039-6,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma,Carcinoembryonic Ag,Ser/Plas,MCnc,1,0
+26474-7,Lymphocytes [#/volume] in Blood,Lymphocytes,Bld,NCnc,1,0
+3082-5,Tyrosine aminotransferase [Mass/volume] in Plasma,Tyrosine aminotransferase,Plas,MCnc,1,0
+14423-8,Bilirubin.total [Mass/volume] in Synovial fluid,Bilirubin,Synv fld,MCnc,1,0
+18928-2,Gentamicin [Susceptibility],Gentamicin,Isolate,Susc,1,0
+26478-8,Lymphocytes/100 leukocytes in Blood,Lymphocytes/100 leukocytes,Bld,NFr,1,0
+1003-3,Indirect antiglobulin test.complement specific reagent [Presence] in Serum or Plasma,Indirect antiglobulin test.complement specific reagent,Ser/Plas,ACnc,1,0
+14749-6,Glucose [Moles/volume] in Serum or Plasma,Glucose,Ser/Plas,SCnc,1,0
+933-2,Blood product type,Blood product type,^BPU,Type,1,0
+26484-6,Monocytes [#/volume] in Blood,Monocytes,Bld,NCnc,1,0
+1751-7,Albumin [Mass/volume] in Serum or Plasma,Albumin,Ser/Plas,MCnc,1,0
+2132-9,Cobalamin (Vitamin B12) [Mass/volume] in Serum,Cobalamins,Ser,MCnc,1,0
+14764-5,Glucose [Moles/volume] in Serum or Plasma --3 hours post 100 g glucose PO,Glucose^3H post 100 g glucose PO,Ser/Plas,SCnc,1,0
+15076-3,Glucose [Moles/volume] in Urine,Glucose,Urine,SCnc,1,0
+19080-1,Choriogonadotropin [Units/volume] in Serum or Plasma,Choriogonadotropin,Ser/Plas,ACnc,1,0
+925-8,Blood product disposition [Type],Blood product disposition,^BPU,Type,1,0
+20629-2,Levofloxacin [Susceptibility],Levofloxacin,Isolate,Susc,1,0
+2111-3,Choriogonadotropin.beta subunit [Moles/volume] in Serum or Plasma,Choriogonadotropin.beta subunit,Ser/Plas,SCnc,1,0
+29265-6,Calcium [Moles/volume] corrected for albumin in Serum or Plasma,Calcium^^corrected for albumin,Ser/Plas,SCnc,1,0
+35184-1,Fasting glucose [Mass or Moles/volume] in Serum or Plasma,Glucose^post CFst,Ser/Plas,MSCnc,1,0
+2069-3,Chloride [Moles/volume] in Blood,Chloride,Bld,SCnc,1,0
+6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,Alkaline phosphatase,Ser/Plas,CCnc,1,0
+31100-1,Hematocrit [Volume Fraction] of Blood by Impedance,Hematocrit,Bld,VFr,1,0
+1798-8,Amylase [Enzymatic activity/volume] in Serum or Plasma,Amylase,Ser/Plas,CCnc,1,0
+2075-0,Chloride [Moles/volume] in Serum or Plasma,Chloride,Ser/Plas,SCnc,1,0
+4671-4,Protein C [Mass/volume] in Plasma,Protein C,Plas,MCnc,1,0
+18998-5,Trimethoprim+Sulfamethoxazole [Susceptibility],Trimethoprim+Sulfamethoxazole,Isolate,Susc,1,0
+54439-5,Calcium bilirubinate/Total in Stone,Calcium bilirubinate/Total,Calculus,MFr,1,0
+1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Aspartate aminotransferase,Ser/Plas,CCnc,1,0
+2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,Cholesterol.in HDL,Ser/Plas,MCnc,1,0
+1995-0,Calcium.ionized [Moles/volume] in Serum or Plasma,Calcium.ionized,Ser/Plas,SCnc,1,0
+33870-7,Bilirubin.total [Presence] in Unspecified specimen,Bilirubin,XXX,PrThr,1,0
+1988-5,C reactive protein [Mass/volume] in Serum or Plasma,C reactive protein,Ser/Plas,MCnc,1,0
+33898-8,"""Bilirubin.conjugated+indirect [Mass/volume] in Serum or Plasma""",Bilirubin.glucuronidated+Bilirubin.non-glucuronidated,MCnc,MCnc,1,1
+33899-6,"""Bilirubin.conjugated+indirect [Moles/volume] in Serum or Plasma""",Bilirubin.glucuronidated+Bilirubin.non-glucuronidated,SCnc,SCnc,1,1
+50189-0,"""Neonatal bilirubin panel [Mass/volume] - Serum or Plasma""","""Neonatal bilirubin panel""",MCnc,MCnc,1,1
+hit,"""Bilirubin.indirect [Mass/volume] in Serum or Plasma""",Bilirubin.non-glucuronidated,MCnc,MCnc,1,1
+hit,"""Bilirubin.indirect [Mass or Moles/volume] in Serum or Plasma""",Bilirubin.non-glucuronidated,MSCnc,MSCnc,1,1
+14630-8,"""Bilirubin.indirect [Moles/volume] in Serum or Plasma""",Bilirubin.non-glucuronidated,SCnc,SCnc,1,1
+15153-0,"""Deprecated Indirect bilirubin [Mass/volume] in Serum or Plasma""",Bilirubin.non-glucuronidated,MCnc,MCnc,1,1
+35672-5,"""Bilirubin.direct/Bilirubin.total in Serum or Plasma""","""Bilirubin.glucuronidated+Bilirubin.albumin bound/Bilirubin.total""",MFr,MFr,1,1
+34442-4,"""Bilirubin.conjugated/Bilirubin.total in Serum or Plasma""",Bilirubin.glucuronidated/Bilirubin.total,MFr,MFr,1,1
+34543-9,"""Bilirubin direct and total panel [Mass/volume] - Serum or Plasma""","""Bilirubin direct & total panel""",MCnc,MCnc,1,1
+hit,"""Bilirubin.direct [Mass/volume] in Serum or Plasma""","""Bilirubin.glucuronidated+Bilirubin.albumin bound""",MCnc,MCnc,1,1
+35191-6,"""Bilirubin.direct [Mass or Moles/volume] in Serum or Plasma""","""Bilirubin.glucuronidated+Bilirubin.albumin bound""",MSCnc,MSCnc,1,1
+43820-0,"""Bilirubin.direct [Presence] in Serum or Plasma""","""Bilirubin.glucuronidated+Bilirubin.albumin bound""",PrThr,PrThr,1,1
+14629-0,"""Bilirubin.direct [Moles/volume] in Serum or Plasma""","""Bilirubin.glucuronidated+Bilirubin.albumin bound""",SCnc,SCnc,1,1
+18264-2,"""Deprecated Direct bilirubin [Mass/volume] in Serum or Plasma""","""Bilirubin.glucuronidated+Bilirubin.albumin bound""",MCnc,MCnc,1,1
+29760-6,"""Bilirubin.conjugated [Moles/volume] in Serum or Plasma""",Bilirubin.glucuronidated,SCnc,SCnc,1,1
+15152-2,"""Bilirubin.conjugated [Mass/volume] in Serum or Plasma""",Bilirubin.glucuronidated,MCnc,MCnc,1,1
+hit,"""Bilirubin.total [Mass/volume] in Serum or Plasma""",Bilirubin,MCnc,MCnc,1,1
+14631-6,"""Bilirubin.total [Moles/volume] in Serum or Plasma""",Bilirubin,SCnc,SCnc,1,1
+35194-0,"""Bilirubin.total [Mass or Moles/volume] in Serum or Plasma""",Bilirubin,MSCnc,MSCnc,1,1
+77137-8,"""Bilirubin.total [Moles/volume] in Serum",Bilirubin,SCnc,SCnc,1,1
+1969-5,"""Bilirubin.total renal clearance in 24 hour Urine and Serum or Plasma""","""Bilirubin renal clearance""",VRat,VRat,1,1
+1970-3,"""Bilirubin.delta [Mass/volume] in Serum or Plasma""","""Bilirubin.albumin bound""",MCnc,MCnc,1,1
+22665-4,"""Bilirubin.delta [Moles/volume] in Serum or Plasma""","""Bilirubin.albumin bound""",SCnc,SCnc,1,1
+85918-1,"""Unhealed pressure injury at stage 2 or higher or designated as unstageable [CMS Assessment]""","""Unhealed pressure injury at stage 2 or higher or designated as unstageable""",Find,Find,1,0
+99717-1,"""Access pressure Renal replacement therapy circuit""","""Access pressure""",Pres,Pres,1,0
+99718-9,"""Effluent pressure Renal replacement therapy circuit""","""Effluent pressure""",Pres,Pres,1,0
+99719-7,"""Filter pressure Renal replacement therapy circuit""","""Filter pressure""",Pres,Pres,1,0
+80345-2,"""Pressure points examined [Anatomy] of Skin""","""Pressure points examined""",Anat,Anat,1,0
+99721-3,"""Return pressure Renal replacement therapy circuit""","""Return pressure""",Pres,Pres,1,0
+99720-5,"""Transmembrane pressure Renal replacement therapy circuit""","""Transmembrane pressure""",Pres,Pres,1,0
+54883-4,"""Deprecated Date of most recent routine pressure ulcer assessment MDSv3""","""Date of most recent routine pressure ulcer assessment""",TmStp,TmStp,1,0
+57228-9,"""Depth Pressure injury.largest stage 3 or 4 [CMS Assessment]""",Depth,Len,Len,1,0
+86901-6,"""Length Pressure injury.largest stage 3 or 4 [CMS Assessment]""",Length,Len,Len,1,0
+75994-4,"""Pulmonary artery wedge pressure""",Intravascular,Pres,Pres,1,0
+8480-6,"""Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+54884-2,"""Number of pressure injuries - stage 1 [CMS Assessment]""","""Number of pressure injuries - stage 1""",Num,Num,1,0
+55124-2,"""Number of pressure injuries - stage 2 [CMS Assessment]""","""Number of pressure injuries - stage 2""",Num,Num,1,0
+55125-9,"""Number of pressure injuries - stage 3 [CMS Assessment]""","""Number of pressure injuries - stage 3""",Num,Num,1,0
+55126-7,"""Number of pressure injuries - stage 4 [CMS Assessment]""","""Number of pressure injuries - stage 4""",Num,Num,1,0
+55087-1,"""Deprecated Number of pressure injuries noted on prior assessment that have completely closed""","""Number of pressure injuries noted on prior assessment that have completely closed""",-,-,1,0
+54957-6,"""Pressure injuries were present on the prior assessment [CMS Assessment]""","""Pressure injuries were present on the prior assessment""",Find,Find,1,0
+90982-0,"""Pressure Ulcer Scale for Healing (PUSH) Tool 3.0 [PUSH]""","""Pressure Ulcer Scale for Healing Tool 3.0""",-,-,1,0
+55073-1,"""Tissue type Pressure injury.Largest at most advanced stage [CMS Assessment]""","""Tissue type""",Type,Type,1,0
+86902-4,"""Width Pressure injury.largest stage 3 or 4 [CMS Assessment]""",Width,Len,Len,1,0
+8471-5,"""Diastolic blood pressure 12 hour mean""","""Intravascular diastolic""",Pres,Pres,1,0
+8468-1,"""Diastolic blood pressure 1 hour mean""","""Intravascular diastolic""",Pres,Pres,1,0
+8472-3,"""Diastolic blood pressure 24 hour mean""","""Intravascular diastolic""",Pres,Pres,1,0
+8469-9,"""Diastolic blood pressure 8 hour mean""","""Intravascular diastolic""",Pres,Pres,1,0
+8470-7,"""Diastolic blood pressure 10 hour mean""","""Intravascular diastolic""",Pres,Pres,1,0
+8486-3,"""Systolic blood pressure 1 hour mean""","""Intravascular systolic""",Pres,Pres,1,0
+83287-3,"""Unstageable pressure injury due to slough/eschar not present or at a lesser stage on admission/reenty # [CMS Assessment]""","""Unstageable pressure injury due to slough &or eschar not present or at a lesser stage on admission &or reenty""",Num,Num,1,0
+60988-3,"""Left atrial pressure""",Intrachamber,Pres,Pres,1,0
+60996-6,"""Right atrial pressure""",Intrachamber,Pres,Pres,1,0
+20054-3,"""Pressure maximum setting Ventilator alarm""","""Pressure max setting""",Pres,Pres,1,0
+20055-0,"""Pressure minimum setting Ventilator alarm""","""Pressure min setting""",Pres,Pres,1,0
+33445-8,"""Tube cuff pressure Intubation tube""","""Tube cuff pressure""",Pres,Pres,1,0
+20053-5,"""Atmospheric pressure""",Pressure,Pres,Pres,1,0
+58102-5,"""Current number of unhealed (non-epithelialized) pressure injuries at each stage [OASIS-C]""","""Current number of unhealed (non-epithelialized) pressure injuries at each stage""",-,-,1,0
+52729-1,"""Diameter transverse Pressure injury.largest stage 3 or 4 [CMS Assessment]""",Diameter.transverse,Len,Len,1,0
+86746-5,"""Dimensions of unhealed stage 3 or 4 pressure injuries or eschar [CMS Assessment]""","""Dimensions of unhealed stage 3 or 4 pressure injuries or eschar""",-,-,1,0
+8434-3,"""Coronary sinus Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8512-6,"""Radial artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8445-9,"""Splenic artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8462-4,"""Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+11378-7,"""Systolic blood pressure at First encounter""","""Intravascular systolic""",Pres,Pres,1,0
+60984-2,"""Aorta Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+76215-3,"""Invasive Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8435-0,"""Ductus arteriosus Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8437-6,"""Mesenteric artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+46536-9,"""Number of pressure injuries - stage 1 Ord [CMS Assessment]""","""Number of pressure injuries - stage 1""",Num,Num,1,0
+57274-3,"""Plan of care includes intervention to prevent pressure injuries [CMS Assessment]""","""Plan of care includes intervention to prevent pressure injuries""",Find,Find,1,0
+29056-9,"""Pressure device type Perimetry""","""Pressure device type""",Type,Type,1,0
+83288-1,"""Unstageable pressure injury due to deep tissue injury not present or at a lesser stage on admission/reentry # [CMS Assessment]""","""Unstageable pressure injury due to deep tissue injury not present or at a lesser stage on admission &or reentry""",Num,Num,1,0
+76539-6,"""Blood pressure device Cuff pressure.diastolic""","""Cuff pressure.diastolic""",Pres,Pres,1,0
+76538-8,"""Blood pressure device Cuff pressure.systolic""","""Cuff pressure.systolic""",Pres,Pres,1,0
+8478-0,"""Mean blood pressure""","""Intravascular mean""",Pres,Pres,1,0
+9855-8,"""Blood pressure special circumstances""","""Blood pressure special circumstances""",Type,Type,1,0
+62691-1,"""PhenX - intraocular pressure protocol 110701""","""PhenX - intraocular pressure protocol 110701""",-,-,1,0
+41904-4,"""Blood pressure measurement site""","""Blood pressure measurement site""",Anat,Anat,1,0
+62392-6,"""PhenX - blood pressure protocol 040301""","""PhenX - blood pressure protocol 040301""",-,-,1,0
+54888-3,"""Date of onset of pressure injuries onset in this facility - oldest or only stage 3 [MDSv3]""","""Date of onset of pressure injuries onset in this facility - oldest or only stage 3""",Date,Date,1,0
+54891-7,"""Date of onset of pressure injuries onset in this facility - oldest or only stage 4 [MDSv3]""","""Date of onset of pressure injuries onset in this facility - oldest or only stage 4""",Date,Date,1,0
+57226-3,"""Longitudinal diameter Pressure injury.largest stage 3 or 4 [OASIS-C]""",Diameter.long,Len,Len,1,0
+11377-9,"""Diastolic blood pressure at First encounter""","""Intravascular diastolic""",Pres,Pres,1,0
+8380-8,"""Ductus arteriosus Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+8500-1,"""Radial artery Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+8390-7,"""Splenic artery Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+8501-9,"""Umbilical artery Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+8494-7,"""Systolic blood pressure 12 hour minimum""","""Intravascular systolic""",Pres,Pres,1,0
+8424-4,"""Descending thoracic aorta Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+76534-7,"""Systolic blood pressure by Noninvasive""","""Intravascular systolic""",Pres,Pres,1,0
+8433-5,"""Celiac trunk artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8552-2,"""Dorsal penile artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8510-0,"""Femoral artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+8513-4,"""Umbilical artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+61005-5,"""Umbilical vein Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+60982-6,"""Aorta Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+76213-8,"""Invasive Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+76535-4,"""Diastolic blood pressure by Noninvasive""","""Intravascular diastolic""",Pres,Pres,1,0
+60986-7,"""Central venous pressure (CVP) Diastolic""","""Intravascular diastolic""",Pres,Pres,1,0
+8379-0,"""Coronary sinus Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+8382-4,"""Mesenteric artery Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+8385-7,"""Pulmonary artery Diastolic blood pressure""","""Intravascular diastolic""",Pres,Pres,1,0
+8483-0,"""Systolic blood pressure 10 hour maximum""","""Intravascular systolic""",Pres,Pres,1,0
+8493-9,"""Systolic blood pressure 10 hour minimum""","""Intravascular systolic""",Pres,Pres,1,0
+8484-8,"""Systolic blood pressure 12 hour maximum""","""Intravascular systolic""",Pres,Pres,1,0
+75997-7,"""Systolic blood pressure by Continuous non-invasive monitoring""","""Intravascular systolic""",Pres,Pres,1,0
+8479-8,"""Systolic blood pressure by palpation""","""Intravascular systolic""",Pres,Pres,1,0
+8508-4,"""Brachial artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+60987-5,"""Central venous pressure (CVP) Systolic""","""Intravascular systolic""",Pres,Pres,1,0
+8440-0,"""Pulmonary artery Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+76288-0,"""Pulmonary capillary Systolic blood pressure""","""Intravascular systolic""",Pres,Pres,1,0
+54886-7,"""Number of pressure injuries present upon admission/reentry - stage 2 [CMS Assessment]""","""Number of pressure injuries present upon admission &or reentry - stage 2""",Num,Num,1,0
+54887-5,"""Number of pressure injuries present upon admission/reentry - stage 3 [CMS Assessment]""","""Number of pressure injuries present upon admission &or reentry - stage 3""",Num,Num,1,0
+54890-9,"""Number of pressure injuries present upon admission/reentry - stage 4 [CMS Assessment]""","""Number of pressure injuries present upon admission &or reentry - stage 4""",Num,Num,1,0
+58214-8,"""One or more unhealed pressure injuries stage 1 or higher [CMS Assessment]""","""One or more unhealed pressure injuries stage 1 or higher""",Find,Find,1,0
+90981-2,"""Pressure Ulcer Scale for Healing (PUSH) Tool 3.0 total score [PUSH]""","""Pressure Ulcer Scale for Healing Tool 3.0 total score""",Score,Score,1,0
+58122-3,"""Resident has one or more unhealed pressure injuries at stage 1 or higher [MDSv3]""","""Resident has one or more unhealed pressure injuries at stage 1 or higher""",Find,Find,1,0
+67087-7,"""There is too much pressure on you to be like other people [PhenX]""","""There is too much pressure on you to be like other people""",Find,Find,1,0
+52730-9,"""Undermining or tunneling present Pressure injury.stage 3 or 4 [CARE]""","""Undermining or tunneling present""",Find,Find,1,0
+20059-2,"""Airway pressure by Airway pressure monitor --at zero inspiratory flow on ventilator""","""Pressure.airway^at zero inspiratory flow on ventilator""",Pres,Pres,1,0
+55284-4,"""Blood pressure systolic and diastolic""","""Blood pressure systolic & diastolic""",-,-,1,0
+34538-9,"""Orthostatic blood pressure""","""Orthostatic blood pressure""",PressDiff,PressDiff,1,0
+20052-7,"""Pressure Atmosphere by Mercury column""",Pressure,Pres,Pres,1,0
+29138-5,"""Pressure device type [Text] Perimetry""","""Pressure device type""",Txt,Txt,1,0
+99731-2,"""Pressure drop Renal replacement therapy circuit""","""Pressure drop""",PressDiff,PressDiff,1,0
+50403-5,"""Blood pressure systolic and diastolic--before transfusion""","""Blood pressure systolic & diastolic^pre transfusion""",Pres,Pres,1,0
+60983-4,"""Aorta Mean blood pressure""","""Intravascular mean""",Pres,Pres,1,0
+8408-7,"""Coronary sinus Mean blood pressure""","""Intravascular mean""",Pres,Pres,1,0
+8506-8,"""Radial artery Mean blood pressure""","""Intravascular mean""",Pres,Pres,1,0
+76214-6,"""Invasive Mean blood pressure""","""Intravascular mean""",Pres,Pres,1,0
+8591-0,"""Central venous pressure (CVP) Mean""","""Intravascular mean""",Pres,Pres,1,0
+8409-5,"""Ductus arteriosus Mean blood pressure""","""Intravascular mean""",Pres,Pres,1,0

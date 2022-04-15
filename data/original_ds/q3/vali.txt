@@ -1,0 +1,6 @@
+0 qid:3 1:0.6971412016578992 4:0.5406409753923639 #docid = 2093-3 Cholesterol [Mass/volume] in Serum or Plasma
+0 qid:3 1:0.3270612470459308 #docid = 18878-9 Cefazolin [Susceptibility]
+0 qid:3 1:0.6488509507808748 4:0.3363596973642981 #docid = 2028-9 Carbon dioxide, total [Moles/volume] in Serum or Plasma
+0 qid:3 1:0.6187731667569086 2:0.02564102564102564 #docid = 1994-3 Calcium.ionized [Moles/volume] in Blood
+0 qid:3 1:0.3270612470459308 #docid = 18864-9 Ampicillin [Susceptibility]
+0 qid:3 1:0.6804120839368213 4:0.4307955516190129 #docid = 2143-6 Cortisol [Mass/volume] in Serum or Plasma

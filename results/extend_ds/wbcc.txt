@@ -1,0 +1,15 @@
+3 Q0 14383-4 1 inf exp
+3 Q0 75352-5 2 inf exp
+3 Q0 70039-3 3 inf exp
+3 Q0 76298-9 4 inf exp
+3 Q0 55377-6 5 inf exp
+3 Q0 13355-3 6 inf exp
+3 Q0 33837-6 7 inf exp
+3 Q0 8464-0 8 inf exp
+3 Q0 2438361 9 inf exp
+3 Q0 70037-7 10 inf exp
+3 Q0 2132-9 11 inf exp
+3 Q0 75374-9 12 inf exp
+3 Q0 1959-6 13 inf exp
+3 Q0 2390180 14 inf exp
+3 Q0 14749-6 15 inf exp
