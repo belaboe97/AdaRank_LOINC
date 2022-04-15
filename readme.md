@@ -6,10 +6,11 @@ This is a fork of githubuser rueychang https://github.com/rueycheng/AdaRank
 ### General Information: 
 The Loinc Folder consists of various steps taken in order to make the lsitwisem approach:
 	-labelprep: Scripts to do an automated labeling and extension of given LOINC dataset
-	- MQ2007: Benchmark Dataset for ranking with over 40 Parameters (works with implemented AdaRank Library @rueycheng
+	- MQ2007: Benchmark Dataset for ranking with over 40 Parameters (works with implemented AdaRank Library @rueycheng)
+	  For testing download the dataset @ https://www.microsoft.com/en-us/research/project/letor-learning-rank-information-retrieval/letor-4-0/
+	  @ https://onedrive.live.com/?authkey=%21ACnoZZSZVfHPJd0&id=8FEADC23D838BDA8%21107&cid=8FEADC23D838BDA8
 	- resources: usefull papers about AdaRank and Letor 4 
 	- results: results of the validation dataset after training AdaRank
-
 	-Files:
 	- test.py, utils.py ,metrics.py => part of reuycheng fork of AdaRank algorithm implementation
 	- loinc_dataset_original, loinc_dataset_extended => Basic and modified version of loinc dataset
