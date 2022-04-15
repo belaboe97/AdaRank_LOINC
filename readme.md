@@ -34,18 +34,18 @@ The Loinc Folder consists of various steps taken in order to make the lsitwisem 
 ["glucose in blood","bilirubin in plasma","White blood cells count"]
 Query 1: Glucose in Blood 
 _________________________________
-Org_DS -> python test.py data/original_ds/q1/train.txt data/original_ds/q1/test.txt data/original_ds/q1/vali.txt -o=results/original_ds/gib.txt
-Ext_DS -> python test.py data/extend_ds/q1/train.txt data/extend_ds/q1/test.txt data/extend_ds/q1/vali.txt -o=results/extend_ds/gib.txt
+Org_DS -> python test.py data/original_ds/q1/train.txt data/original_ds/q1/test.txt data/original_ds/q1/vali.txt -o=results/original_ds/gib <br/>.txt
+Ext_DS -> python test.py data/extend_ds/q1/train.txt data/extend_ds/q1/test.txt data/extend_ds/q1/vali.txt -o=results/extend_ds/gib.txt <br/>
 
 Query 2: bilirubin in plasma
 _________________________________
-Org_DS -> python test.py data/original_ds/q2/train.txt data/original_ds/q2/test.txt data/original_ds/q2/vali.txt -o=results/original_ds/bip.txt
-Ext_DS -> python test.py data/extend_ds/q2/train.txt data/extend_ds/q2/test.txt data/extend_ds/q2/vali.txt -o=results/extend_ds/bip.txt
+Org_DS -> python test.py data/original_ds/q2/train.txt data/original_ds/q2/test.txt data/original_ds/q2/vali.txt -o=results/original_ds/bip.txt <br/>
+Ext_DS -> python test.py data/extend_ds/q2/train.txt data/extend_ds/q2/test.txt data/extend_ds/q2/vali.txt -o=results/extend_ds/bip.txt <br/>
 
 Query 3: White blood cells count 
 _________________________________
-Org_DS -> python test.py data/original_ds/q3/train.txt data/original_ds/q3/test.txt data/original_ds/q3/vali.txt -o=results/original_ds/wbcc.txt
-Ext_DS -> python test.py data/extend_ds/q3/train.txt data/extend_ds/q3/test.txt data/extend_ds/q3/vali.txt -o=results/extend_ds/wbcc.txt
+Org_DS -> python test.py data/original_ds/q3/train.txt data/original_ds/q3/test.txt data/original_ds/q3/vali.txt -o=results/original_ds/ <br/>wbcc.txt
+Ext_DS -> python test.py data/extend_ds/q3/train.txt data/extend_ds/q3/test.txt data/extend_ds/q3/vali.txt -o=results/extend_ds/wbcc.txt <br/>
 
 
 ## These commands are usefull to run the Letor Benchmark Ranking Dataset:
